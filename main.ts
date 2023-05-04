@@ -1,0 +1,13 @@
+input.onButtonPressed(Button.AB, function () {
+    music.playMelody("B C5 B C5 E B C5 G ", 166)
+    music.playMelody("B C5 B C5 E B C5 G ", 148)
+    music.playMelody("B C5 B C5 E B C5 G ", 120)
+    music.playMelody("B C5 B C5 E B C5 G ", 96)
+    music.playMelody("E D G F B A C5 B ", 120)
+    music.playMelody("E D G F B A C5 B ", 99)
+    music.playMelody("B A G A G F A C5 ", 120)
+    music.playMelody("G F E A - F E D ", 120)
+    music.playMelody("F E D - A - - - ", 500)
+    music.playMelody("E D C A - - - - ", 120)
+    music.playMelody("- - - - - - - - ", 120)
+})
